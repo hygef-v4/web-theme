@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 26 Feb 2025 10:05:21 at https://transvelo.github.io/mediacenter-html/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://transvelo.github.io/mediacenter-html/ -O1 "C:\Users\hungs\Desktop\theme 22" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:06:00	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/cart.html&style=alt2 (from https://transvelo.github.io/mediacenter-html/)
+10:06:00	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.eot (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+10:06:00	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.eot? (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+10:06:00	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.woff2 (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+10:06:00	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.woff (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+10:06:00	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.ttf (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+10:06:00	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.svg (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+10:06:00	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/css/owl.video.play.png (from https://transvelo.github.io/mediacenter-html/assets/css/owl.carousel.css)
+10:06:00	Warning: 	Retry after error -4 (No data (connection closed)) at link www.google-analytics.com/analytics.js (from https://transvelo.github.io/mediacenter-html/single-product.html)
+10:06:00	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/home.html (from https://transvelo.github.io/mediacenter-html/single-product.html)
+10:06:00	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/cart.html.html (from https://transvelo.github.io/mediacenter-html/wishlist.html)
+10:06:00	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/index.php?page=compaore (from https://transvelo.github.io/mediacenter-html/compare.html)
+10:06:01	Warning: 	Found for www.google-analytics.com/analytics.js
+10:06:01	Warning: 	File has moved from www.google-analytics.com/analytics.js to http://172.16.50.1:8183/redirect.cgi?u=www.google-analytics.com&c=Adware
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 seconds : 131 links scanned, 117 files written (5270209 bytes overall) [3029883 bytes received at 75747 bytes/sec], 3748855 bytes transferred using HTTP compression in 68 files, ratio 22%, 26.2 requests per connection
+(11 errors, 3 warnings, 0 messages)

@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:14:45	1242/1242	---M--	403	error ('Forbidden')	text/html	date:Wed,%2026%20Feb%202025%2003:14:43%20GMT	https://ninetheme.com/robots.txt		(from )
+10:14:48	1116231/1116231	---MCZ	200	added ('OK')	text/html	etag:%22150-1740421864;gz%22	https://ninetheme.com/themes/electron2/home-main/	C:/Users/hungs/Desktop/theme%20phone/ninetheme.com/themes/electron2/home-main/index.html	(from )
+10:14:49	12098/12098	---M-Z	200	added ('OK')	application/javascript	etag:%222f42-67a51679-b08c7e25be4f8871;gz%22	https://ninetheme.com/themes/electron2/wp-content/plugins/litespeed-cache/assets/js/webfontloader.min.js	C:/Users/hungs/Desktop/theme%20phone/ninetheme.com/themes/electron2/wp-content/plugins/litespeed-cache/assets/js/webfontloader.min.js	(from https://ninetheme.com/themes/electron2/home-main/)
